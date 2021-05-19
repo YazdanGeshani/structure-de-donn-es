@@ -1,0 +1,24 @@
+10:32 01/03/2021
+
+LES STRUCTURES DE DONNÉES :
+
+
+La liste : 
+.tableau ordonés
+.modifiables.
+.repetables
+
+Le tuple :
+.ordonés
+.non modifiable
+.repetables
+
+L'ensemble (set) :
+.non ordonés
+.modifiables
+.non répétables
+On peut faire des opérations usuelles comme en mathématiques(union,difference,intersection,etc...):
+_Union = set | set2 => {set,set2}
+_Intersection = set & set2 => {set=set2}
+_Différence = set - set2 => {set-set2}
+_Différence symétrique(union-intersection) = set ^ set2 => {set-set2 set2-set}
